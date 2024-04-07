@@ -2,7 +2,7 @@ Maintainer of:
 
 * [`cargo public-api`](https://github.com/Enselic/cargo-public-api) List and diff the public API of Rust library crates between releases and commits. Detect breaking API changes and semver violations via CI or a CLI.
 
-**Rust compiler** contributor to features such as:
+**Rust compiler** contributor of bugfixes and features such as:
 
 * [Make `unconditional_recursion` warning detect recursive drops](https://github.com/rust-lang/rust/pull/113902)
 * [Tracking Issue for `unix_sigpipe`](https://github.com/rust-lang/rust/issues/97889) (work in progress)
